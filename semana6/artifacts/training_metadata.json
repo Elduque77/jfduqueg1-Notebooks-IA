@@ -1,0 +1,10 @@
+{
+  "champion": "logistic_regression",
+  "selection_metric": "accuracy",
+  "cv_folds": 5,
+  "cv_score": 0.9790640394088669,
+  "best_params": {
+    "classifier__C": 1
+  },
+  "random_state": 42
+}

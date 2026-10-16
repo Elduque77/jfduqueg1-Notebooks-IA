@@ -1,0 +1,5 @@
+{
+  "model": "logistic_regression",
+  "accuracy": 0.9722222222222222,
+  "f1_macro": 0.9709618874773139
+}

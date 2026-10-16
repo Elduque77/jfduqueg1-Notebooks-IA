@@ -1,0 +1,4 @@
+model,cv_accuracy,cv_std,train_accuracy,best_params,gap_train_val
+logistic_regression,0.9790640394088669,0.027713464392187602,1.0,{'classifier__C': 1},0.020935960591133118
+knn,0.9578817733990148,0.040520048714638005,0.964772550846142,"{'classifier__n_neighbors': 7, 'classifier__weights': 'uniform'}",0.006890777447127183
+decision_tree,0.9024630541871922,0.07622506080471962,0.9859338612016767,"{'classifier__max_depth': 5, 'classifier__min_samples_leaf': 2}",0.0834708070144845
